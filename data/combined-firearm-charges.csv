@@ -1,0 +1,644 @@
+Year,Charges,Table,Title,Statute
+2013,4,1.0,Violating pistol permitting requirements,CGS  29-28
+2014,3,1.0,Violating pistol permitting requirements,CGS  29-28
+2015,5,1.0,Violating pistol permitting requirements,CGS  29-28
+2016,7,1.0,Violating pistol permitting requirements,CGS  29-28
+2017,10,1.0,Violating pistol permitting requirements,CGS  29-28
+2013,1,1.0,Failing to surrender revoked permit to carry a pistol or revolver,CGS  29-32
+2013,100,1.0,Illegally transferring a pistol or revolver,CGS  29-33
+2014,75,1.0,Illegally transferring a pistol or revolver,CGS  29-33
+2015,116,1.0,Illegally transferring a pistol or revolver,CGS  29-33
+2016,77,1.0,Illegally transferring a pistol or revolver,CGS  29-33
+2017,79,1.0,Illegally transferring a pistol or revolver,CGS  29-33
+2015,1,1.0,Making false statements related to a pistol or revolver transfer,CGS  29-34(a)
+2017,2,1.0,Making false statements related to a pistol or revolver transfer,CGS  29-34(a)
+2014,1,1.0,Transferring a pistol or revolver to someone under age 21,CGS  29-34(b)
+2015,1,1.0,Transferring a pistol or revolver to someone under age 21,CGS  29-34(b)
+2016,2,1.0,Transferring a pistol or revolver to someone under age 21,CGS  29-34(b)
+2013,646,1.0,Carrying a pistol without a permit,CGS  29-35(a)
+2014,603,1.0,Carrying a pistol without a permit,CGS  29-35(a)
+2015,619,1.0,Carrying a pistol without a permit,CGS  29-35(a)
+2016,604,1.0,Carrying a pistol without a permit,CGS  29-35(a)
+2017,649,1.0,Carrying a pistol without a permit,CGS  29-35(a)
+2013,8,1.0,Failing to carry a pistol permit,CGS  29-35(b)
+2014,8,1.0,Failing to carry a pistol permit,CGS  29-35(b)
+2015,16,1.0,Failing to carry a pistol permit,CGS  29-35(b)
+2016,7,1.0,Failing to carry a pistol permit,CGS  29-35(b)
+2017,112,1.0,Failing to carry a pistol permit,CGS  29-35(b)
+2013,82,1.0,"Altering firearm identification mark, number, or name",CGS  29-36
+2014,84,1.0,"Altering firearm identification mark, number, or name",CGS  29-36
+2015,96,1.0,"Altering firearm identification mark, number, or name",CGS  29-36
+2016,91,1.0,"Altering firearm identification mark, number, or name",CGS  29-36
+2017,115,1.0,"Altering firearm identification mark, number, or name",CGS  29-36
+2015,1,1.0,Failing to surrender a revoked gun eligibility certificate,CGS  29-36i
+2013,8,1.0,Making a false statement related to transferring a firearm other than a pistol or revolver,CGS  29-37e
+2014,4,1.0,Making a false statement related to transferring a firearm other than a pistol or revolver,CGS  29-37e
+2015,4,1.0,Making a false statement related to transferring a firearm other than a pistol or revolver,CGS  29-37e
+2016,6,1.0,Making a false statement related to transferring a firearm other than a pistol or revolver,CGS  29-37e
+2017,6,1.0,Making a false statement related to transferring a firearm other than a pistol or revolver,CGS  29-37e
+2013,10,1.0,Violating loaded firearm safe storage requirements with respect to minors,CGS  29-37i
+2014,12,1.0,Violating loaded firearm safe storage requirements with respect to minors,CGS  29-37i
+2015,12,1.0,Violating loaded firearm safe storage requirements with respect to minors,CGS  29-37i
+2016,7,1.0,Violating loaded firearm safe storage requirements with respect to minors,CGS  29-37i
+2017,13,1.0,Violating loaded firearm safe storage requirements with respect to minors,CGS  29-37i
+2014,3,1.0,Purchasing a firearm for transfer to a prohibited person,CGS  29-37j(a)
+2015,3,1.0,Purchasing a firearm for transfer to a prohibited person,CGS  29-37j(a)
+2016,7,1.0,Purchasing a firearm for transfer to a prohibited person,CGS  29-37j(a)
+2017,1,1.0,Purchasing or soliciting purchase of a firearm to transfer to a prohibited person within five years after prior felony conviction,CGS  29-37j(c)
+2014,1,1.0,Using a machine gun in a violent crime,CGS  53-202(b)
+2015,1,1.0,Using a machine gun in a violent crime,CGS  53-202(b)
+2016,1,1.0,Using a machine gun in a violent crime,CGS  53-202(b)
+2017,2,1.0,Using a machine gun in a violent crime,CGS  53-202(b)
+2013,1,1.0,Using a machine gun for an aggressive purpose or giving one to someone under age 16,CGS  53-202(c)
+2014,7,1.0,Using a machine gun for an aggressive purpose or giving one to someone under age 16,CGS  53-202(c)
+2015,9,1.0,Using a machine gun for an aggressive purpose or giving one to someone under age 16,CGS  53-202(c)
+2016,1,1.0,Using a machine gun for an aggressive purpose or giving one to someone under age 16,CGS  53-202(c)
+2017,3,1.0,Using a machine gun for an aggressive purpose or giving one to someone under age 16,CGS  53-202(c)
+2013,1,1.0,Manufacturer-failing to keep machine gun register,CGS  53-202(f)
+2015,1,1.0,Manufacturer-failing to keep machine gun register,CGS  53-202(f)
+2016,1,1.0,Failing to register machine gun adapted to use projectiles of any caliber,CGS  53-202(g)
+2013,3,1.0,Illegally transferring an assault weapon,CGS  53-202b(a)(1)
+2014,2,1.0,Illegally transferring an assault weapon,CGS  53-202b(a)(1)
+2015,22,1.0,Illegally transferring an assault weapon,CGS  53-202b(a)(1)
+2016,17,1.0,Illegally transferring an assault weapon,CGS  53-202b(a)(1)
+2017,4,1.0,Illegally transferring an assault weapon,CGS  53-202b(a)(1)
+2014,1,1.0,"Illegally transferring, selling, or giving an assault weapon to someone under age 18",CGS  53-202b(a)(2)
+2013,20,1.0,Illegally possessing an assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2014,19,1.0,Illegally possessing an assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2015,31,1.0,Illegally possessing an assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2016,59,1.0,Illegally possessing an assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2017,32,1.0,Illegally possessing an assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2013,11,1.0,Illegally possessing an assault weapon,CGS  53-202c
+2014,11,1.0,Illegally possessing an assault weapon,CGS  53-202c
+2015,31,1.0,Illegally possessing an assault weapon,CGS  53-202c
+2016,19,1.0,Illegally possessing an assault weapon,CGS  53-202c
+2017,15,1.0,Illegally possessing an assault weapon,CGS  53-202c
+2013,1,1.0,Illegally transporting an assault weapon,CGS  53-202f
+2015,2,1.0,Illegally transporting an assault weapon,CGS  53-202f
+2016,4,1.0,Illegally transporting an assault weapon,CGS  53-202f
+2017,7,1.0,Illegally transporting an assault weapon,CGS  53-202f
+2013,4,1.0,Failing to report a lost or stolen assault weapon,CGS  53-202g
+2014,6,1.0,Failing to report a lost or stolen assault weapon,CGS  53-202g
+2015,3,1.0,Failing to report a lost or stolen assault weapon,CGS  53-202g
+2016,7,1.0,Failing to report a lost or stolen assault weapon,CGS  53-202g
+2017,3,1.0,Failing to report a lost or stolen assault weapon,CGS  53-202g
+2013,27,1.0,"Using a firearm to commit a class a, b, or c felony",CGS  53-202k
+2014,13,1.0,"Using a firearm to commit a class a, b, or c felony",CGS  53-202k
+2015,5,1.0,"Using a firearm to commit a class a, b, or c felony",CGS  53-202k
+2016,7,1.0,"Using a firearm to commit a class a, b, or c felony",CGS  53-202k
+2017,15,1.0,"Using a firearm to commit a class a, b, or c felony",CGS  53-202k
+2014,1,1.0,Transferring amor piercing or incendiary ammunition,CGS  53-202l
+2017,1,1.0,Transferring amor piercing or incendiary ammunition,CGS  53-202l
+2013,13,1.0,Trafficking in firearms,CGS  53-202aa
+2014,7,1.0,Trafficking in firearms,CGS  53-202aa
+2015,17,1.0,Trafficking in firearms,CGS  53-202aa
+2016,16,1.0,Trafficking in firearms,CGS  53-202aa
+2017,10,1.0,Trafficking in firearms,CGS  53-202aa
+2013,161,1.0,Illegally discharging a firearm,CGS  53-203
+2014,196,1.0,Illegally discharging a firearm,CGS  53-203
+2015,174,1.0,Illegally discharging a firearm,CGS  53-203
+2016,146,1.0,Illegally discharging a firearm,CGS  53-203
+2017,170,1.0,Illegally discharging a firearm,CGS  53-203
+2013,4,1.0,Hunting or discharging a firearm from a public highway,CGS  53-204
+2014,18,1.0,Hunting or discharging a firearm from a public highway,CGS  53-204
+2015,11,1.0,Hunting or discharging a firearm from a public highway,CGS  53-204
+2016,1,1.0,Hunting or discharging a firearm from a public highway,CGS  53-204
+2017,2,1.0,Hunting or discharging a firearm from a public highway,CGS  53-204
+2013,16,1.0,"Carrying a loaded shotgun, rifle, or muzzleloader in a vehicle or snowmobile",CGS  53-205
+2014,8,1.0,"Carrying a loaded shotgun, rifle, or muzzleloader in a vehicle or snowmobile",CGS  53-205
+2015,9,1.0,"Carrying a loaded shotgun, rifle, or muzzleloader in a vehicle or snowmobile",CGS  53-205
+2016,7,1.0,"Carrying a loaded shotgun, rifle, or muzzleloader in a vehicle or snowmobile",CGS  53-205
+2017,4,1.0,"Carrying a loaded shotgun, rifle, or muzzleloader in a vehicle or snowmobile",CGS  53-205
+2013,73,1.0,"Selling, carrying, brandishing a facsimile firearm",CGS  53-206c
+2014,86,1.0,"Selling, carrying, brandishing a facsimile firearm",CGS  53-206c
+2015,78,1.0,"Selling, carrying, brandishing a facsimile firearm",CGS  53-206c
+2016,79,1.0,"Selling, carrying, brandishing a facsimile firearm",CGS  53-206c
+2017,71,1.0,"Selling, carrying, brandishing a facsimile firearm",CGS  53-206c
+2013,94,1.0,Carrying a loaded firearm under the influence of drugs or alcohol,CGS  53-206d(a)
+2014,75,1.0,Carrying a loaded firearm under the influence of drugs or alcohol,CGS  53-206d(a)
+2015,92,1.0,Carrying a loaded firearm under the influence of drugs or alcohol,CGS  53-206d(a)
+2016,82,1.0,Carrying a loaded firearm under the influence of drugs or alcohol,CGS  53-206d(a)
+2017,91,1.0,Carrying a loaded firearm under the influence of drugs or alcohol,CGS  53-206d(a)
+2013,14,1.0,1st degree manslaughter with a firearm,CGS  53a-55a
+2014,14,1.0,1st degree manslaughter with a firearm,CGS  53a-55a
+2015,23,1.0,1st degree manslaughter with a firearm,CGS  53a-55a
+2016,29,1.0,1st degree manslaughter with a firearm,CGS  53a-55a
+2017,17,1.0,1st degree manslaughter with a firearm,CGS  53a-55a
+2013,2,1.0,2nd degree manslaughter with a firearm,CGS  53a-56a
+2014,2,1.0,2nd degree manslaughter with a firearm,CGS  53a-56a
+2017,1,1.0,2nd degree manslaughter with a firearm,CGS  53a-56a
+2013,17,1.0,2nd degree assault with a firearm,CGS  53a-60a
+2014,15,1.0,2nd degree assault with a firearm,CGS  53a-60a
+2015,17,1.0,2nd degree assault with a firearm,CGS  53a-60a
+2016,18,1.0,2nd degree assault with a firearm,CGS  53a-60a
+2017,14,1.0,2nd degree assault with a firearm,CGS  53a-60a
+2013,2,1.0,"2nd degree assault of an elderly, blind, disabled, pregnant, or intellectually disabled person with a firearm",CGS  53a-60c
+2017,2,1.0,"2nd degree assault of an elderly, blind, disabled, pregnant, or intellectually disabled person with a firearm",CGS  53a-60c
+2013,2,1.0,3rd degree sexual assault with a firearm,CGS  53a-72b
+2017,2,1.0,3rd degree sexual assault with a firearm,CGS  53a-72b
+2013,38,1.0,1st degree kidnapping with a firearm,CGS  53a-92a
+2014,16,1.0,1st degree kidnapping with a firearm,CGS  53a-92a
+2015,18,1.0,1st degree kidnapping with a firearm,CGS  53a-92a
+2016,20,1.0,1st degree kidnapping with a firearm,CGS  53a-92a
+2017,10,1.0,1st degree kidnapping with a firearm,CGS  53a-92a
+2013,4,1.0,2nd degree kidnapping with a firearm,CGS  53a-94a
+2014,9,1.0,2nd degree kidnapping with a firearm,CGS  53a-94a
+2015,2,1.0,2nd degree kidnapping with a firearm,CGS  53a-94a
+2016,1,1.0,2nd degree kidnapping with a firearm,CGS  53a-94a
+2017,6,1.0,2nd degree kidnapping with a firearm,CGS  53a-94a
+2013,3,1.0,2nd degree burlary with a firearm,CGS  53a-102a
+2014,7,1.0,2nd degree burlary with a firearm,CGS  53a-102a
+2015,3,1.0,2nd degree burlary with a firearm,CGS  53a-102a
+2016,3,1.0,2nd degree burlary with a firearm,CGS  53a-102a
+2017,3,1.0,2nd degree burlary with a firearm,CGS  53a-102a
+2013,5,1.0,3rd degree burglary with a firearm,CGS  53a-103a
+2014,6,1.0,3rd degree burglary with a firearm,CGS  53a-103a
+2016,1,1.0,3rd degree burglary with a firearm,CGS  53a-103a
+2017,1,1.0,3rd degree burglary with a firearm,CGS  53a-103a
+2013,43,1.0,Possessing a sawed-off shotgun or silencer,CGS  53a-211
+2014,50,1.0,Possessing a sawed-off shotgun or silencer,CGS  53a-211
+2015,32,1.0,Possessing a sawed-off shotgun or silencer,CGS  53a-211
+2016,22,1.0,Possessing a sawed-off shotgun or silencer,CGS  53a-211
+2017,30,1.0,Possessing a sawed-off shotgun or silencer,CGS  53a-211
+2013,349,1.0,Stealing a firearm,CGS  53a-212
+2014,322,1.0,Stealing a firearm,CGS  53a-212
+2015,422,1.0,Stealing a firearm,CGS  53a-212
+2016,350,1.0,Stealing a firearm,CGS  53a-212
+2017,308,1.0,Stealing a firearm,CGS  53a-212
+2013,49,1.0,Criminal use of a firearm or electronic defense weapon,CGS  53a-216
+2014,47,1.0,Criminal use of a firearm or electronic defense weapon,CGS  53a-216
+2015,45,1.0,Criminal use of a firearm or electronic defense weapon,CGS  53a-216
+2016,43,1.0,Criminal use of a firearm or electronic defense weapon,CGS  53a-216
+2017,33,1.0,Criminal use of a firearm or electronic defense weapon,CGS  53a-216
+2013,640,1.0,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2014,580,1.0,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2015,573,1.0,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2016,573,1.0,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2017,592,1.0,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2013,18,1.0,Criminally negligent storage of a firearm,CGS  53a-217a
+2014,16,1.0,Criminally negligent storage of a firearm,CGS  53a-217a
+2015,6,1.0,Criminally negligent storage of a firearm,CGS  53a-217a
+2016,12,1.0,Criminally negligent storage of a firearm,CGS  53a-217a
+2017,5,1.0,Criminally negligent storage of a firearm,CGS  53a-217a
+2013,305,1.0,Criminal possession of a pistol or revolver,CGS  53a-217c
+2014,295,1.0,Criminal possession of a pistol or revolver,CGS  53a-217c
+2015,299,1.0,Criminal possession of a pistol or revolver,CGS  53a-217c
+2016,288,1.0,Criminal possession of a pistol or revolver,CGS  53a-217c
+2017,281,1.0,Criminal possession of a pistol or revolver,CGS  53a-217c
+2013,854,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2014,847,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2015,826,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2016,841,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2017,932,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2013,806,2.0,Carrying a dangerous weapon,CGS  53-206
+2014,735,2.0,Carrying a dangerous weapon,CGS  53-206
+2015,804,2.0,Carrying a dangerous weapon,CGS  53-206
+2016,707,2.0,Carrying a dangerous weapon,CGS  53-206
+2017,613,2.0,Carrying a dangerous weapon,CGS  53-206
+2013,22,2.0,Possessing a firearm or deadly weapon on school grounds,CGS  53a-217b
+2014,8,2.0,Possessing a firearm or deadly weapon on school grounds,CGS  53a-217b
+2015,15,2.0,Possessing a firearm or deadly weapon on school grounds,CGS  53a-217b
+2016,19,2.0,Possessing a firearm or deadly weapon on school grounds,CGS  53a-217b
+2017,12,2.0,Possessing a firearm or deadly weapon on school grounds,CGS  53a-217b
+2008,7,1.0,Violating pistol permitting requirements,CGS  29-28
+2009,1,1.0,Violating pistol permitting requirements,CGS  29-28
+2010,10,1.0,Violating pistol permitting requirements,CGS  29-28
+2011,8,1.0,Violating pistol permitting requirements,CGS  29-28
+2012,5,1.0,Violating pistol permitting requirements,CGS  29-28
+2008,2,1.0,Failing to surrender revoked permit to carry a pistol or revolver,CGS  29-32
+2009,1,1.0,Failing to surrender revoked permit to carry a pistol or revolver,CGS  29-32
+2010,1,1.0,Failing to surrender revoked permit to carry a pistol or revolver,CGS  29-32
+2008,107,1.0,Illegally transferring a pistol or revolver,CGS  29-33
+2009,71,1.0,Illegally transferring a pistol or revolver,CGS  29-33
+2010,99,1.0,Illegally transferring a pistol or revolver,CGS  29-33
+2011,206,1.0,Illegally transferring a pistol or revolver,CGS  29-33
+2012,60,1.0,Illegally transferring a pistol or revolver,CGS  29-33
+2008,1,1.0,Making false statements related to a pistol or revolver transfer,CGS  29-34(a)
+2009,1,1.0,Making false statements related to a pistol or revolver transfer,CGS  29-34(a)
+2012,2,1.0,Making false statements related to a pistol or revolver transfer,CGS  29-34(a)
+2008,7,1.0,Transferring a pistol or revolver to someone under age 21,CGS  29-34(b)
+2011,1,1.0,Transferring a pistol or revolver to someone under age 21,CGS  29-34(b)
+2012,2,1.0,Transferring a pistol or revolver to someone under age 21,CGS  29-34(b)
+2008,681,1.0,Carrying a pistol without a permit,CGS  29-35(a)
+2009,649,1.0,Carrying a pistol without a permit,CGS  29-35(a)
+2010,675,1.0,Carrying a pistol without a permit,CGS  29-35(a)
+2011,655,1.0,Carrying a pistol without a permit,CGS  29-35(a)
+2012,652,1.0,Carrying a pistol without a permit,CGS  29-35(a)
+2008,7,1.0,Failing to carry a pistol permit,CGS  29-35(b)
+2009,9,1.0,Failing to carry a pistol permit,CGS  29-35(b)
+2010,12,1.0,Failing to carry a pistol permit,CGS  29-35(b)
+2011,9,1.0,Failing to carry a pistol permit,CGS  29-35(b)
+2012,8,1.0,Failing to carry a pistol permit,CGS  29-35(b)
+2008,103,1.0,"Altering firearm identification mark, number, or name",CGS  29-36
+2009,102,1.0,"Altering firearm identification mark, number, or name",CGS  29-36
+2010,90,1.0,"Altering firearm identification mark, number, or name",CGS  29-36
+2011,110,1.0,"Altering firearm identification mark, number, or name",CGS  29-36
+2012,78,1.0,"Altering firearm identification mark, number, or name",CGS  29-36
+2009,1,1.0,Failing to surrender a revoked gun eligibility certificate,CGS  29-36i
+2010,3,1.0,Failing to surrender a revoked gun eligibility certificate,CGS  29-36i
+2008,4,1.0,Failing to transfer or surrender a firearmperson ineligibile to possess firearms,CGS  29-36k
+2009,1,1.0,Failing to transfer or surrender a firearmperson ineligibile to possess firearms,CGS  29-36k
+2010,2,1.0,Failing to transfer or surrender a firearmperson ineligibile to possess firearms,CGS  29-36k
+2012,1,1.0,Failing to transfer or surrender a firearmperson ineligibile to possess firearms,CGS  29-36k
+2008,1,1.0,Retailersfailing to provide gun locking devices,CGS  29-37b
+2009,1,1.0,Retailersfailing to provide gun locking devices,CGS  29-37b
+2010,3,1.0,Retailersfailing to provide gun locking devices,CGS  29-37b
+2011,2,1.0,Retailersfailing to provide gun locking devices,CGS  29-37b
+2012,1,1.0,Retailersfailing to provide gun locking devices,CGS  29-37b
+2008,8,1.0,Making a false statement related to transferring a firearm other than a pistol or revolver,CGS  29-37e
+2009,22,1.0,Making a false statement related to transferring a firearm other than a pistol or revolver,CGS  29-37e
+2010,9,1.0,Making a false statement related to transferring a firearm other than a pistol or revolver,CGS  29-37e
+2011,5,1.0,Making a false statement related to transferring a firearm other than a pistol or revolver,CGS  29-37e
+2012,6,1.0,Making a false statement related to transferring a firearm other than a pistol or revolver,CGS  29-37e
+2008,17,1.0,Violating loaded firearm safe storage requirements with respect to minors,CGS  29-37i
+2009,7,1.0,Violating loaded firearm safe storage requirements with respect to minors,CGS  29-37i
+2010,26,1.0,Violating loaded firearm safe storage requirements with respect to minors,CGS  29-37i
+2011,20,1.0,Violating loaded firearm safe storage requirements with respect to minors,CGS  29-37i
+2012,12,1.0,Violating loaded firearm safe storage requirements with respect to minors,CGS  29-37i
+2009,8,1.0,Purchasing a firearm for transfer to a prohibited person,CGS  29-37j(a)
+2010,8,1.0,Purchasing a firearm for transfer to a prohibited person,CGS  29-37j(a)
+2011,7,1.0,Purchasing a firearm for transfer to a prohibited person,CGS  29-37j(a)
+2012,3,1.0,Purchasing a firearm for transfer to a prohibited person,CGS  29-37j(a)
+2008,1,1.0,Soliciting purchase of a firearm to transfer to a prohibited person,CGS  29-37j(b)
+2012,2,1.0,Purchasing or soliciting purchase of a firearm to transfer to a prohibited person within five years after a prior felony conviction,CGS  29-37j(c)
+2008,2,1.0,Using a machine gun in a violent crime,CGS  53-202(b)
+2009,1,1.0,Using a machine gun in a violent crime,CGS  53-202(b)
+2012,1,1.0,Using a machine gun in a violent crime,CGS  53-202(b)
+2008,3,1.0,Using a machine gun for an aggressive purpose or giving one to someone under age 16,CGS  53-202(c)
+2010,5,1.0,Using a machine gun for an aggressive purpose or giving one to someone under age 16,CGS  53-202(c)
+2012,4,1.0,Using a machine gun for an aggressive purpose or giving one to someone under age 16,CGS  53-202(c)
+2009,1,1.0,Manufacturer-failing to keep machine gun register,CGS  53-202(f)
+2008,9,1.0,Illegally transferring an assault weapon,CGS  53-202b(a)(1)
+2009,7,1.0,Illegally transferring an assault weapon,CGS  53-202b(a)(1)
+2010,5,1.0,Illegally transferring an assault weapon,CGS  53-202b(a)(1)
+2011,5,1.0,Illegally transferring an assault weapon,CGS  53-202b(a)(1)
+2012,6,1.0,Illegally transferring an assault weapon,CGS  53-202b(a)(1)
+2008,23,1.0,Illegally possessing an assault weapon,CGS  53-202c
+2009,7,1.0,Illegally possessing an assault weapon,CGS  53-202c
+2010,11,1.0,Illegally possessing an assault weapon,CGS  53-202c
+2011,16,1.0,Illegally possessing an assault weapon,CGS  53-202c
+2012,13,1.0,Illegally possessing an assault weapon,CGS  53-202c
+2008,32,1.0,Illegally possessing an assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2009,25,1.0,Illegally possessing an assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2010,18,1.0,Illegally possessing an assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2011,34,1.0,Illegally possessing an assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2012,31,1.0,Illegally possessing an assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2009,1,1.0,Illegally transporting an assault weapon,CGS  53-202f
+2010,3,1.0,Illegally transporting an assault weapon,CGS  53-202f
+2008,3,1.0,Failing to report a lost or stolen assault weapon,CGS  53-202g
+2009,6,1.0,Failing to report a lost or stolen assault weapon,CGS  53-202g
+2011,2,1.0,Failing to report a lost or stolen assault weapon,CGS  53-202g
+2012,7,1.0,Failing to report a lost or stolen assault weapon,CGS  53-202g
+2008,1,1.0,"Using an assault weapon to commit a class a, b, or c felony",CGS  53-202j
+2008,12,1.0,"Using a firearm to commit a class a, b, or c felony",CGS  53-202k
+2009,13,1.0,"Using a firearm to commit a class a, b, or c felony",CGS  53-202k
+2010,19,1.0,"Using a firearm to commit a class a, b, or c felony",CGS  53-202k
+2011,14,1.0,"Using a firearm to commit a class a, b, or c felony",CGS  53-202k
+2012,16,1.0,"Using a firearm to commit a class a, b, or c felony",CGS  53-202k
+2012,1,1.0,Transferring amor piercing or incendiary ammunition,CGS  53-202l
+2012,4,1.0,Trafficking in firearms,CGS  53-202aa
+2008,171,1.0,Illegally discharging a firearm,CGS  53-203
+2009,174,1.0,Illegally discharging a firearm,CGS  53-203
+2010,190,1.0,Illegally discharging a firearm,CGS  53-203
+2011,192,1.0,Illegally discharging a firearm,CGS  53-203
+2012,173,1.0,Illegally discharging a firearm,CGS  53-203
+2008,9,1.0,Hunting or discharging a firearm from a public highway,CGS  53-204
+2009,5,1.0,Hunting or discharging a firearm from a public highway,CGS  53-204
+2010,1,1.0,Hunting or discharging a firearm from a public highway,CGS  53-204
+2011,2,1.0,,
+2012,2,1.0,Hunting or discharging a firearm from a public highway,CGS  53-204
+2008,12,1.0,"Carrying a loaded shotgun, rifle, or muzzleloader in a vehicle or snowmobile",CGS  53-205
+2009,6,1.0,"Carrying a loaded shotgun, rifle, or muzzleloader in a vehicle or snowmobile",CGS  53-205
+2010,18,1.0,"Carrying a loaded shotgun, rifle, or muzzleloader in a vehicle or snowmobile",CGS  53-205
+2011,10,1.0,"Carrying a loaded shotgun, rifle, or muzzleloader in a vehicle or snowmobile",CGS  53-205
+2012,11,1.0,"Carrying a loaded shotgun, rifle, or muzzleloader in a vehicle or snowmobile",CGS  53-205
+2008,1,1.0,Transferring a facsimile firearm,CGS  53-206c(b)
+2009,2,1.0,Transferring a facsimile firearm,CGS  53-206c(b)
+2010,2,1.0,Transferring a facsimile firearm,CGS  53-206c(b)
+2011,5,1.0,Transferring a facsimile firearm,CGS  53-206c(b)
+2012,2,1.0,Transferring a facsimile firearm,CGS  53-206c(b)
+2008,71,1.0,Carrying or using a facsimile firearm,CGS  53-206c(c)
+2009,65,1.0,Carrying or using a facsimile firearm,CGS  53-206c(c)
+2010,61,1.0,Carrying or using a facsimile firearm,CGS  53-206c(c)
+2011,57,1.0,Carrying or using a facsimile firearm,CGS  53-206c(c)
+2012,56,1.0,Carrying or using a facsimile firearm,CGS  53-206c(c)
+2008,2,1.0,Using a facsimile firearm near emergency personnel,CGS  53-206c(d)
+2010,3,1.0,Using a facsimile firearm near emergency personnel,CGS  53-206c(d)
+2012,3,1.0,Using a facsimile firearm near emergency personnel,CGS  53-206c(d)
+2008,37,1.0,Carrying a loaded firearm under the influence of drugs or alcohol,CGS  53-206d(a)
+2009,39,1.0,Carrying a loaded firearm under the influence of drugs or alcohol,CGS  53-206d(a)
+2010,82,1.0,Carrying a loaded firearm under the influence of drugs or alcohol,CGS  53-206d(a)
+2011,77,1.0,Carrying a loaded firearm under the influence of drugs or alcohol,CGS  53-206d(a)
+2012,72,1.0,Carrying a loaded firearm under the influence of drugs or alcohol,CGS  53-206d(a)
+2008,13,1.0,1st degree manslaughter with a firearm,CGS  53a-55a
+2009,21,1.0,1st degree manslaughter with a firearm,CGS  53a-55a
+2010,14,1.0,1st degree manslaughter with a firearm,CGS  53a-55a
+2011,16,1.0,1st degree manslaughter with a firearm,CGS  53a-55a
+2012,14,1.0,1st degree manslaughter with a firearm,CGS  53a-55a
+2009,3,1.0,2nd degree manslaughter with a firearm,CGS  53a-56a
+2012,2,1.0,2nd degree manslaughter with a firearm,CGS  53a-56a
+2008,29,1.0,2nd degree assault with a firearm,CGS  53a-60a
+2009,24,1.0,2nd degree assault with a firearm,CGS  53a-60a
+2010,16,1.0,2nd degree assault with a firearm,CGS  53a-60a
+2011,14,1.0,2nd degree assault with a firearm,CGS  53a-60a
+2012,34,1.0,2nd degree assault with a firearm,CGS  53a-60a
+2008,3,1.0,"2nd degree assault of an elderly, blind, disabled, pregnant, or intellectually disabled person with a firearm",CGS  53a-60c
+2009,3,1.0,"2nd degree assault of an elderly, blind, disabled, pregnant, or intellectually disabled person with a firearm",CGS  53a-60c
+2010,3,1.0,"2nd degree assault of an elderly, blind, disabled, pregnant, or intellectually disabled person with a firearm",CGS  53a-60c
+2011,4,1.0,"2nd degree assault of an elderly, blind, disabled, pregnant, or intellectually disabled person with a firearm",CGS  53a-60c
+2012,1,1.0,"2nd degree assault of an elderly, blind, disabled, pregnant, or intellectually disabled person with a firearm",CGS  53a-60c
+2009,1,1.0,3rd degree sexual assault with a firearm,CGS  53a-72b
+2010,1,1.0,3rd degree sexual assault with a firearm,CGS  53a-72b
+2011,1,1.0,3rd degree sexual assault with a firearm,CGS  53a-72b
+2008,21,1.0,1st degree kidnapping with a firearm,CGS  53a-92a
+2009,36,1.0,1st degree kidnapping with a firearm,CGS  53a-92a
+2010,19,1.0,1st degree kidnapping with a firearm,CGS  53a-92a
+2011,29,1.0,1st degree kidnapping with a firearm,CGS  53a-92a
+2012,37,1.0,1st degree kidnapping with a firearm,CGS  53a-92a
+2008,4,1.0,2nd degree kidnapping with a firearm,CGS  53a-94a
+2009,13,1.0,2nd degree kidnapping with a firearm,CGS  53a-94a
+2010,3,1.0,2nd degree kidnapping with a firearm,CGS  53a-94a
+2011,6,1.0,2nd degree kidnapping with a firearm,CGS  53a-94a
+2012,1,1.0,2nd degree kidnapping with a firearm,CGS  53a-94a
+2008,10,1.0,2nd degree burlary with a firearm,CGS  53a-102a
+2009,1,1.0,2nd degree burlary with a firearm,CGS  53a-102a
+2010,2,1.0,2nd degree burlary with a firearm,CGS  53a-102a
+2011,4,1.0,2nd degree burlary with a firearm,CGS  53a-102a
+2012,3,1.0,2nd degree burlary with a firearm,CGS  53a-102a
+2008,9,1.0,3rd degree burglary with a firearm,CGS  53a-103a
+2009,8,1.0,3rd degree burglary with a firearm,CGS  53a-103a
+2010,9,1.0,3rd degree burglary with a firearm,CGS  53a-103a
+2011,5,1.0,3rd degree burglary with a firearm,CGS  53a-103a
+2012,5,1.0,3rd degree burglary with a firearm,CGS  53a-103a
+2008,63,1.0,Possessing a sawed-off shotgun or silencer,CGS  53a-211
+2009,38,1.0,Possessing a sawed-off shotgun or silencer,CGS  53a-211
+2010,46,1.0,Possessing a sawed-off shotgun or silencer,CGS  53a-211
+2011,49,1.0,Possessing a sawed-off shotgun or silencer,CGS  53a-211
+2012,34,1.0,Possessing a sawed-off shotgun or silencer,CGS  53a-211
+2008,392,1.0,Stealing a firearm,CGS  53a-212
+2009,395,1.0,Stealing a firearm,CGS  53a-212
+2010,400,1.0,Stealing a firearm,CGS  53a-212
+2011,448,1.0,Stealing a firearm,CGS  53a-212
+2012,357,1.0,Stealing a firearm,CGS  53a-212
+2008,55,1.0,Criminal use of a firearm or electronic defense weapon,CGS  53a-216
+2009,71,1.0,Criminal use of a firearm or electronic defense weapon,CGS  53a-216
+2010,54,1.0,Criminal use of a firearm or electronic defense weapon,CGS  53a-216
+2011,54,1.0,Criminal use of a firearm or electronic defense weapon,CGS  53a-216
+2012,57,1.0,Criminal use of a firearm or electronic defense weapon,CGS  53a-216
+2008,506,1.0,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2009,417,1.0,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2010,409,1.0,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2011,454,1.0,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2012,442,1.0,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2008,11,1.0,Criminally negligent storage of a firearm,CGS  53a-217a
+2009,8,1.0,Criminally negligent storage of a firearm,CGS  53a-217a
+2010,17,1.0,Criminally negligent storage of a firearm,CGS  53a-217a
+2011,8,1.0,Criminally negligent storage of a firearm,CGS  53a-217a
+2012,10,1.0,Criminally negligent storage of a firearm,CGS  53a-217a
+2008,371,1.0,Criminal possession of a pistol or revolver,CGS  53a-217c
+2009,339,1.0,Criminal possession of a pistol or revolver,CGS  53a-217c
+2010,335,1.0,Criminal possession of a pistol or revolver,CGS  53a-217c
+2011,372,1.0,Criminal possession of a pistol or revolver,CGS  53a-217c
+2012,343,1.0,Criminal possession of a pistol or revolver,CGS  53a-217c
+2008,1273,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2009,1073,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2010,1026,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2011,1089,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2012,945,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2008,1001,2.0,Carrying a dangerous weapon,CGS  53-206
+2009,953,2.0,Carrying a dangerous weapon,CGS  53-206
+2010,1010,2.0,Carrying a dangerous weapon,CGS  53-206
+2011,876,2.0,Carrying a dangerous weapon,CGS  53-206
+2012,790,2.0,Carrying a dangerous weapon,CGS  53-206
+2008,24,2.0,Possessing a firearm or deadly weapon on school grounds,CGS  53a-217b
+2009,20,2.0,Possessing a firearm or deadly weapon on school grounds,CGS  53a-217b
+2010,20,2.0,Possessing a firearm or deadly weapon on school grounds,CGS  53a-217b
+2011,29,2.0,Possessing a firearm or deadly weapon on school grounds,CGS  53a-217b
+2012,17,2.0,Possessing a firearm or deadly weapon on school grounds,CGS  53a-217b
+2002,4,,Violate pistol permitting requirements,CGS  29-28
+2003,3,,Violate pistol permitting requirements,CGS  29-28
+2004,4,,Violate pistol permitting requirements,CGS  29-28
+2005,4,,Violate pistol permitting requirements,CGS  29-28
+2006,7,,Violate pistol permitting requirements,CGS  29-28
+2007,4,,Violate pistol permitting requirements,CGS  29-28
+2004,1,,Fail to display gun sales permit,CGS  29-31
+2006,1,,Fail to display gun sales permit,CGS  29-31
+2005,1,,Fail to surrender revoked permit to carry pistol or revolver,CGS  29-32
+2006,2,,Fail to surrender revoked permit to carry pistol or revolver,CGS  29-32
+2001,5,,Illegal transfer of pistol or revolver,CGS  29-33
+2002,40,,Illegal transfer of pistol or revolver,CGS  29-33
+2003,93,,Illegal transfer of pistol or revolver,CGS  29-33
+2004,44,,Illegal transfer of pistol or revolver,CGS  29-33
+2005,85,,Illegal transfer of pistol or revolver,CGS  29-33
+2006,94,,Illegal transfer of pistol or revolver,CGS  29-33
+2007,42,,Illegal transfer of pistol or revolver,CGS  29-33
+2002,12,,Illegal transfer of stolen pistol or revolver,CGS  29-33
+2003,4,,Illegal transfer of stolen pistol or revolver,CGS  29-33
+2004,3,,Illegal transfer of stolen pistol or revolver,CGS  29-33
+2005,7,,Illegal transfer of stolen pistol or revolver,CGS  29-33
+2007,3,,Illegal transfer of stolen pistol or revolver,CGS  29-33
+2003,1,,False statement related to transferring a pistol or revolver,CGS  29-34(a)
+2002,1,,Illegal transfer of pistol to person under age 21,CGS  29-34(b)
+2003,2,,Illegal transfer of pistol to person under age 21,CGS  29-34(b)
+2004,2,,Illegal transfer of pistol to person under age 21,CGS  29-34(b)
+2005,7,,Illegal transfer of pistol to person under age 21,CGS  29-34(b)
+2006,4,,Illegal transfer of pistol to person under age 21,CGS  29-34(b)
+2007,1,,Illegal transfer of pistol to person under age 21,CGS  29-34(b)
+2001,129,,Carrying a pistol without a permit,CGS  29-35(a)
+2002,570,,Carrying a pistol without a permit,CGS  29-35(a)
+2003,514,,Carrying a pistol without a permit,CGS  29-35(a)
+2004,532,,Carrying a pistol without a permit,CGS  29-35(a)
+2005,609,,Carrying a pistol without a permit,CGS  29-35(a)
+2006,635,,Carrying a pistol without a permit,CGS  29-35(a)
+2007,519,,Carrying a pistol without a permit,CGS  29-35(a)
+2002,8,,Failing to carry a pistol permit,CGS  29-35(b)
+2003,3,,Failing to carry a pistol permit,CGS  29-35(b)
+2004,7,,Failing to carry a pistol permit,CGS  29-35(b)
+2005,10,,Failing to carry a pistol permit,CGS  29-35(b)
+2006,1,,Failing to carry a pistol permit,CGS  29-35(b)
+2007,9,,Failing to carry a pistol permit,CGS  29-35(b)
+2001,26,,Illegal alteration of firearm identification mark number name,CGS  29-36
+2002,74,,Illegal alteration of firearm identification mark number name,CGS  29-36
+2003,90,,Illegal alteration of firearm identification mark number name,CGS  29-36
+2004,79,,Illegal alteration of firearm identification mark number name,CGS  29-36
+2005,115,,Illegal alteration of firearm identification mark number name,CGS  29-36
+2006,96,,Illegal alteration of firearm identification mark number name,CGS  29-36
+2007,89,,Illegal alteration of firearm identification mark number name,CGS  29-36
+2004,1,,Fail to surrender revoked gun certificate,CGS  29-36i
+2005,1,,Fail to surrender revoked gun certificate,CGS  29-36i
+2002,3,,Fail to transfer surrender firearm,CGS  29-36k
+2003,3,,Fail to transfer surrender firearm,CGS  29-36k
+2004,6,,Fail to transfer surrender firearm,CGS  29-36k
+2005,4,,Fail to transfer surrender firearm,CGS  29-36k
+2006,10,,Fail to transfer surrender firearm,CGS  29-36k
+2007,2,,Fail to transfer surrender firearm,CGS  29-36k
+2001,3,,Retailer failure to provide gun locking device,CGS  29-37b
+2002,3,,Retailer failure to provide gun locking device,CGS  29-37b
+2003,9,,Retailer failure to provide gun locking device,CGS  29-37b
+2004,7,,Retailer failure to provide gun locking device,CGS  29-37b
+2005,3,,Retailer failure to provide gun locking device,CGS  29-37b
+2006,2,,Retailer failure to provide gun locking device,CGS  29-37b
+2007,4,,Retailer failure to provide gun locking device,CGS  29-37b
+2002,1,,False statement related to buying or transferring a firearm,CGS  29-37e
+2003,1,,False statement related to buying or transferring a firearm,CGS  29-37e
+2002,2,,Purchasing firearm for transfer to a prohibited person,CGS  29-37j(a)
+2003,34,,Purchasing firearm for transfer to a prohibited person,CGS  29-37j(a)
+2004,3,,Purchasing firearm for transfer to a prohibited person,CGS  29-37j(a)
+2005,4,,Purchasing firearm for transfer to a prohibited person,CGS  29-37j(a)
+2007,2,,Purchasing firearm for transfer to a prohibited person,CGS  29-37j(a)
+2001,1,,Soliciting purchase of one firearm to transfer to a prohibited person,CGS  29-37j(b)
+2002,1,,Soliciting purchase of one firearm to transfer to a prohibited person,CGS  29-37j(b)
+2005,1,,Soliciting purchase of more than one firearm for transfer to a prohibited person,CGS  29-37j(b)
+2005,2,,Purchase or soliciting purchase of a firearm for transfer to a prohibited person and prior felony conviction within five years,CGS  29-37j(c)
+2001,230,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2002,1132,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2003,1239,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2004,1127,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2005,1128,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2006,1125,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2007,987,2.0,Possessing a weapon in a vehicle,CGS  29-38
+2002,9,,Using machine gun in a violent crime,CGS  53-202(b)
+2003,2,,Using machine gun in a violent crime,CGS  53-202(b)
+2004,2,,Using machine gun in a violent crime,CGS  53-202(b)
+2005,2,,Using machine gun in a violent crime,CGS  53-202(b)
+2006,2,,Using machine gun in a violent crime,CGS  53-202(b)
+2007,1,,Using machine gun in a violent crime,CGS  53-202(b)
+2002,5,,Use machine gun for an aggressive purpose,CGS  53-202(c)
+2003,6,,Use machine gun for an aggressive purpose,CGS  53-202(c)
+2004,9,,Use machine gun for an aggressive purpose,CGS  53-202(c)
+2005,3,,Use machine gun for an aggressive purpose,CGS  53-202(c)
+2006,1,,Use machine gun for an aggressive purpose,CGS  53-202(c)
+2003,3,,Manufacturer's failure to keep machine gun register,CGS  53-202(f)
+2004,1,,Manufacturer's failure to keep machine gun register,CGS  53-202(f)
+2005,1,,Manufacturer's failure to keep machine gun register,CGS  53-202(f)
+2007,1,,Manufacturer's failure to keep machine gun register,CGS  53-202(f)
+2003,3,,Illegal sale of assault weapon,CGS  53-202b(a)(1)
+2004,1,,Illegal sale of assault weapon,CGS  53-202b(a)(1)
+2005,8,,Illegal sale of assault weapon,CGS  53-202b(a)(1)
+2006,3,,Illegal sale of assault weapon,CGS  53-202b(a)(1)
+2007,3,,Illegal sale of assault weapon,CGS  53-202b(a)(1)
+2002,1,,Illegal possession of assault weapon,CGS  53-202c
+2003,2,,Illegal possession of assault weapon,CGS  53-202c
+2005,13,,Illegal possession of assault weapon,CGS  53-202c
+2006,10,,Illegal possession of assault weapon,CGS  53-202c
+2007,8,,Illegal possession of assault weapon,CGS  53-202c
+2001,5,,Illegal possession of assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2002,22,,Illegal possession of assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2003,28,,Illegal possession of assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2004,40,,Illegal possession of assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2005,37,,Illegal possession of assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2006,39,,Illegal possession of assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2007,27,,Illegal possession of assault weapon1st time violator whose possession was previously legal,CGS  53-202c
+2002,1,,Transporting assault weapon,CGS  53-202f
+2004,1,,Transporting assault weapon,CGS  53-202f
+2005,2,,Transporting assault weapon,CGS  53-202f
+2006,1,,Transporting assault weapon,CGS  53-202f
+2007,2,,Transporting assault weapon,CGS  53-202f
+2004,1,,"Use assault weapon to commit a class a, b, or c felony",CGS  53-202j
+2005,1,,"Use assault weapon to commit a class a, b, or c felony",CGS  53-202j
+2001,4,,"Use firearm to commit a class a, b, or c felony",CGS  53-202k
+2002,17,,"Use firearm to commit a class a, b, or c felony",CGS  53-202k
+2003,38,,"Use firearm to commit a class a, b, or c felony",CGS  53-202k
+2004,26,,"Use firearm to commit a class a, b, or c felony",CGS  53-202k
+2005,19,,"Use firearm to commit a class a, b, or c felony",CGS  53-202k
+2006,44,,"Use firearm to commit a class a, b, or c felony",CGS  53-202k
+2007,13,,"Use firearm to commit a class a, b, or c felony",CGS  53-202k
+2001,35,,Illegal discharge of firearm,CGS  53-203
+2002,163,,Illegal discharge of firearm,CGS  53-203
+2003,190,,Illegal discharge of firearm,CGS  53-203
+2004,175,,Illegal discharge of firearm,CGS  53-203
+2005,203,,Illegal discharge of firearm,CGS  53-203
+2006,205,,Illegal discharge of firearm,CGS  53-203
+2007,152,,Illegal discharge of firearm,CGS  53-203
+2002,9,,Discharging firearm from a public highway,CGS  53-204
+2003,6,,Discharging firearm from a public highway,CGS  53-204
+2004,4,,Discharging firearm from a public highway,CGS  53-204
+2005,9,,Discharging firearm from a public highway,CGS  53-204
+2006,1,,Discharging firearm from a public highway,CGS  53-204
+2007,5,,Discharging firearm from a public highway,CGS  53-204
+2001,5,,Loaded shotgun rifle muzzleloader in vehicle or snowmobile,CGS  53-205
+2002,16,,Loaded shotgun rifle muzzleloader in vehicle or snowmobile,CGS  53-205
+2003,7,,Loaded shotgun rifle muzzleloader in vehicle or snowmobile,CGS  53-205
+2004,14,,Loaded shotgun rifle muzzleloader in vehicle or snowmobile,CGS  53-205
+2005,17,,Loaded shotgun rifle muzzleloader in vehicle or snowmobile,CGS  53-205
+2006,11,,Loaded shotgun rifle muzzleloader in vehicle or snowmobile,CGS  53-205
+2007,16,,Loaded shotgun rifle muzzleloader in vehicle or snowmobile,CGS  53-205
+2001,205,2.0,Carrying a dangerous weapon,CGS  53-206
+2002,872,2.0,Carrying a dangerous weapon,CGS  53-206
+2003,920,2.0,Carrying a dangerous weapon,CGS  53-206
+2004,978,2.0,Carrying a dangerous weapon,CGS  53-206
+2005,959,2.0,Carrying a dangerous weapon,CGS  53-206
+2006,1012,2.0,Carrying a dangerous weapon,CGS  53-206
+2007,767,2.0,Carrying a dangerous weapon,CGS  53-206
+2001,1,,Sale of facsimile firearm,CGS  53-206c(b)
+2002,4,,Sale of facsimile firearm,CGS  53-206c(b)
+2003,6,,Sale of facsimile firearm,CGS  53-206c(b)
+2004,5,,Sale of facsimile firearm,CGS  53-206c(b)
+2005,1,,Sale of facsimile firearm,CGS  53-206c(b)
+2006,6,,Sale of facsimile firearm,CGS  53-206c(b)
+2007,5,,Sale of facsimile firearm,CGS  53-206c(b)
+2001,13,,Illegal use of facsimile firearm,CGS  53-206c(c)
+2002,76,,Illegal use of facsimile firearm,CGS  53-206c(c)
+2003,69,,Illegal use of facsimile firearm,CGS  53-206c(c)
+2004,82,,Illegal use of facsimile firearm,CGS  53-206c(c)
+2005,54,,Illegal use of facsimile firearm,CGS  53-206c(c)
+2006,67,,Illegal use of facsimile firearm,CGS  53-206c(c)
+2007,54,,Illegal use of facsimile firearm,CGS  53-206c(c)
+2006,1,,Use facsimile firearm near emergency personnel,CGS  53-206c(d)
+2007,2,,Use facsimile firearm near emergency personnel,CGS  53-206c(d)
+2001,4,,Carrying a firearm under the influence of drugs or alcohol,CGS  53-206d
+2002,24,,Carrying a firearm under the influence of drugs or alcohol,CGS  53-206d
+2003,35,,Carrying a firearm under the influence of drugs or alcohol,CGS  53-206d
+2004,24,,Carrying a firearm under the influence of drugs or alcohol,CGS  53-206d
+2005,34,,Carrying a firearm under the influence of drugs or alcohol,CGS  53-206d
+2006,29,,Carrying a firearm under the influence of drugs or alcohol,CGS  53-206d
+2007,42,,Carrying a firearm under the influence of drugs or alcohol,CGS  53-206d
+2001,7,,Possess sawed-off shotgun or silencer,CGS  53a-211
+2002,36,,Possess sawed-off shotgun or silencer,CGS  53a-211
+2003,51,,Possess sawed-off shotgun or silencer,CGS  53a-211
+2004,32,,Possess sawed-off shotgun or silencer,CGS  53a-211
+2005,43,,Possess sawed-off shotgun or silencer,CGS  53a-211
+2006,42,,Possess sawed-off shotgun or silencer,CGS  53a-211
+2007,48,,Possess sawed-off shotgun or silencer,CGS  53a-211
+2001,68,,Stealing a firearm,CGS  53a-212
+2002,331,,Stealing a firearm,CGS  53a-212
+2003,381,,Stealing a firearm,CGS  53a-212
+2004,318,,Stealing a firearm,CGS  53a-212
+2005,470,,Stealing a firearm,CGS  53a-212
+2006,361,,Stealing a firearm,CGS  53a-212
+2007,257,,Stealing a firearm,CGS  53a-212
+2001,21,,Criminal use of firearm or electronic defense weapon,CGS  53a-216
+2002,81,,Criminal use of firearm or electronic defense weapon,CGS  53a-216
+2003,75,,Criminal use of firearm or electronic defense weapon,CGS  53a-216
+2004,77,,Criminal use of firearm or electronic defense weapon,CGS  53a-216
+2005,77,,Criminal use of firearm or electronic defense weapon,CGS  53a-216
+2006,92,,Criminal use of firearm or electronic defense weapon,CGS  53a-216
+2007,49,,Criminal use of firearm or electronic defense weapon,CGS  53a-216
+2001,59,,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2002,316,,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2003,395,,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2004,392,,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2005,411,,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2006,437,,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2007,346,,Criminal possession of a firearm or electronic defense weapon,CGS  53a-217
+2001,5,,Negligent storage of firearm,CGS  53a-217a
+2002,16,,Negligent storage of firearm,CGS  53a-217a
+2003,10,,Negligent storage of firearm,CGS  53a-217a
+2004,8,,Negligent storage of firearm,CGS  53a-217a
+2005,4,,Negligent storage of firearm,CGS  53a-217a
+2006,9,,Negligent storage of firearm,CGS  53a-217a
+2007,4,,Negligent storage of firearm,CGS  53a-217a
+2001,1,2.0,Possess firearm or deadly weapon on school ground,CGS  53a-217b
+2002,31,2.0,Possess firearm or deadly weapon on school ground,CGS  53a-217b
+2003,20,2.0,Possess firearm or deadly weapon on school ground,CGS  53a-217b
+2004,32,2.0,Possess firearm or deadly weapon on school ground,CGS  53a-217b
+2005,35,2.0,Possess firearm or deadly weapon on school ground,CGS  53a-217b
+2006,25,2.0,Possess firearm or deadly weapon on school ground,CGS  53a-217b
+2007,17,2.0,Possess firearm or deadly weapon on school ground,CGS  53a-217b
+2001,50,,Criminal possession of a pistol or revolver,CGS  53a-217c
+2002,223,,Criminal possession of a pistol or revolver,CGS  53a-217c
+2003,229,,Criminal possession of a pistol or revolver,CGS  53a-217c
+2004,208,,Criminal possession of a pistol or revolver,CGS  53a-217c
+2005,253,,Criminal possession of a pistol or revolver,CGS  53a-217c
+2006,275,,Criminal possession of a pistol or revolver,CGS  53a-217c
+2007,258,,Criminal possession of a pistol or revolver,CGS  53a-217c
